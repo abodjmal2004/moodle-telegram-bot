@@ -14,7 +14,7 @@ env/
 *.sqlite
 
 # Assets
-/assets/screenshots/
+# /assets/screenshots/ (Removed from ignore to show in README)
 
 # OS
 .DS_Store

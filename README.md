@@ -7,6 +7,9 @@
 
 An advanced, feature-rich Telegram bot designed to integrate seamlessly with **Moodle LMS**. This bot serves as a personal academic assistant, helping students stay updated with their courses, assignments, and grades in real-time.
 
+### 🤖 Live Demo
+You can try the bot on Telegram: [@m_alaqsa_bot](https://t.me/m_alaqsa_bot)
+
 ---
 
 ## 🌟 Key Features

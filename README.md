@@ -83,6 +83,20 @@ This project takes security seriously. All sensitive user credentials (like Mood
 
 ---
 
+## 👨‍💻 Developer
+
+**Abodjmal** — Software Developer  
+
+Passionate about building modern applications, clean architecture, and smooth user experiences.
+
+### 🌐 Connect With Me
+
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?logo=telegram)](https://t.me/xw_25aa)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white)](https://instagram.com/xw_.0)
+[![GitHub](https://img.shields.io/badge/GitHub-abodjmal2004-black?logo=github)](https://github.com/abodjmal2004)
+
+---
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

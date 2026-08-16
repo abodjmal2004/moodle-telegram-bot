@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# Database
+*.db
+*.sqlite3
+*.sqlite
+
+# Assets
+/assets/screenshots/
+
+# OS
+.DS_Store
+Thumbs.db
